@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   title: "Devflow",
   description: "Description",
   icons: {
-    icon: "/public/assets/images/site-logo.svg",
+    icon: "/assets/images/site-logo.svg",
   },
 };
 
